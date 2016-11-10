@@ -1,1 +1,3 @@
-# ChessProject1
+# ChessProject for Artifical Intelligence 
+
+
